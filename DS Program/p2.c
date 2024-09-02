@@ -13,7 +13,7 @@ int main()
 	int ch;
 	while(1)
 	{	
-		printf("\n 1.push");
+		printf("\n 1.push ");
 		printf("\n 2.pop");
 		printf("\n 3.display");
 		printf("\n 4.peep");
