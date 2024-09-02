@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #define MAX 5
 
-void add(int arr[], int *ele);
 void delete1(int arr[], int *ele);
 void modify(int arr[],int *ele);
 void display(int arr[],int *ele);
